@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewBag.Title - Sale Laptops Online</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/Content/site.css" />
+</head>
+<body>
+    <header class="bg-dark text-white py-2">
+        <div class="container d-flex justify-content-between align-items-center">
+            <a href="/" class="text-decoration-none text-white"><h3>Sale Laptops Online</h3></a>
+            <form action="/Home/Search" method="get" class="d-flex">
+                <input type="text" name="search" class="form-control me-2" placeholder="Tìm kiếm..." />
+                <button class="btn btn-primary" type="submit">Tìm</button>
+            </form>
+        </div>
+    </header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a class="nav-link" href="/">Trang chủ</a></li>
+                <li class="nav-item"><a class="nav-link" href="/Laptops">Danh sách laptop</a></li>
+                <li class="nav-item"><a class="nav-link" href="/Contact">Liên hệ</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container my-4">
+        @RenderBody()
+    </div>
+    <footer class="bg-dark text-white py-3">
+        <div class="container text-center">
+            <p>&copy; 2025 Sale Laptops Online - Tất cả quyền được bảo lưu.</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
