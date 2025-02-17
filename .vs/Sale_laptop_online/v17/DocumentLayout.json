@@ -83,6 +83,10 @@
           "SelectedChildIndex": 8,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
@@ -92,8 +96,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T03:26:06.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T03:26:06.48Z"
             },
             {
               "$type": "Document",
@@ -105,8 +108,7 @@
               "RelativeToolTip": "Views\\Laptops\\Details.cshtml",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAAFMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T03:23:07.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T03:23:07.514Z"
             },
             {
               "$type": "Document",
@@ -118,8 +120,7 @@
               "RelativeToolTip": "Views\\Laptops\\Edit.cshtml",
               "ViewState": "AgIAACsAAAAAAAAAAAAYwDcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T03:09:47.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T03:09:47.311Z"
             },
             {
               "$type": "Document",
@@ -131,12 +132,7 @@
               "RelativeToolTip": "wwwroot\\img\\laptop_logo.svg",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-02-17T02:08:41.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "WhenOpened": "2025-02-17T02:08:41.46Z"
             },
             {
               "$type": "Document",
@@ -148,8 +144,7 @@
               "RelativeToolTip": "Views\\Laptops\\Create.cshtml",
               "ViewState": "AgIAADYAAAAAzczMzMwhwEQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T02:18:04.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T02:18:04.84Z"
             },
             {
               "$type": "Document",
@@ -161,8 +156,7 @@
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T02:13:29.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T02:13:29.476Z"
             },
             {
               "$type": "Document",
@@ -174,8 +168,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABEAAAAANzMzMzMLwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T01:59:55.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T01:59:55.15Z"
             },
             {
               "$type": "Document",
@@ -185,7 +178,7 @@
               "RelativeDocumentMoniker": "Views\\Laptops\\Index.cshtml",
               "ToolTip": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Laptops\\Index.cshtml",
               "RelativeToolTip": "Views\\Laptops\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-17T01:59:42.574Z",
               "EditorCaption": ""
@@ -200,8 +193,7 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-17T01:59:21.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T01:59:21.974Z"
             },
             {
               "$type": "Document",
@@ -213,8 +205,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAoAAAAAmpmZmRkWwCgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T01:59:04.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T01:59:04.9Z"
             },
             {
               "$type": "Document",
@@ -226,8 +217,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:15:27.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T14:15:27.415Z"
             },
             {
               "$type": "Document",
@@ -251,8 +241,7 @@
               "RelativeToolTip": "Controllers\\LaptopsController.cs",
               "ViewState": "AgIAAGcAAAAAAAAAAAAkwHQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:07:24.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T14:07:24.394Z"
             },
             {
               "$type": "Document",
@@ -264,8 +253,7 @@
               "RelativeToolTip": "Models\\Laptop.cs",
               "ViewState": "AgIAAAUAAAAAIjMzMzPjvw8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T13:59:13.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T13:59:13.877Z"
             },
             {
               "$type": "Bookmark",
