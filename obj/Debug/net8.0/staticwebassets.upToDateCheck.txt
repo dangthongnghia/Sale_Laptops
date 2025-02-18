@@ -1,7 +1,10 @@
+wwwroot\css\index.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\laptops\fpqycokf.sm2.jpg
 wwwroot\images\laptops\n4mut1lx.j0a.jpg
+wwwroot\images\laptops\nwgx3i0f.dnu.png
+wwwroot\images\laptops\om1zepdt.113.png
 wwwroot\images\laptops\vi3k24gx.x4y.jpg
 wwwroot\img\laptop_logo.svg
 wwwroot\js\site.js

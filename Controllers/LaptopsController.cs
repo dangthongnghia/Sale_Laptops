@@ -20,10 +20,21 @@ namespace Sale_laptop_online.Controllers
         }
 
         // GET: Laptops
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string search)
         {
-            return View(await _context.Laptop.ToListAsync());
+            var laptops = from l in _context.Laptop
+                          select l;
+
+            if (!string.IsNullOrEmpty(search))
+            {
+                laptops = laptops.Where(s => s.Name!.Contains(search) || s.Model!.Contains(search));
+            }
+            return View(await laptops.ToListAsync());
         }
+     
+        
+
+        
 
         // GET: Laptops/Details/5
         public async Task<IActionResult> Details(int? id)

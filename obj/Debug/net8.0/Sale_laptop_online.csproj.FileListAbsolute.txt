@@ -261,3 +261,4 @@ D:\Csharp\ASP_MVC\Sale_laptop_online\obj\Debug\net8.0\refint\Sale_laptop_online.
 D:\Csharp\ASP_MVC\Sale_laptop_online\obj\Debug\net8.0\Sale_laptop_online.pdb
 D:\Csharp\ASP_MVC\Sale_laptop_online\obj\Debug\net8.0\Sale_laptop_online.genruntimeconfig.cache
 D:\Csharp\ASP_MVC\Sale_laptop_online\obj\Debug\net8.0\ref\Sale_laptop_online.dll
+D:\Csharp\ASP_MVC\Sale_laptop_online\obj\Debug\net8.0\Sale_laptop_online.sourcelink.json

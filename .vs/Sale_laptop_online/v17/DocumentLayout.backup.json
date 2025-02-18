@@ -3,60 +3,31 @@
   "WorkspaceRootPath": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|d:\\csharp\\asp_mvc\\sale_laptop_online\\views\\laptops\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|solutionrelative:views\\laptops\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|d:\\csharp\\asp_mvc\\sale_laptop_online\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|d:\\csharp\\asp_mvc\\sale_laptop_online\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|d:\\csharp\\asp_mvc\\sale_laptop_online\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|d:\\csharp\\asp_mvc\\sale_laptop_online\\views\\laptops\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|solutionrelative:views\\laptops\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|d:\\csharp\\asp_mvc\\sale_laptop_online\\views\\laptops\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|solutionrelative:views\\laptops\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|d:\\csharp\\asp_mvc\\sale_laptop_online\\views\\laptops\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|solutionrelative:views\\laptops\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|d:\\csharp\\asp_mvc\\sale_laptop_online\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|d:\\csharp\\asp_mvc\\sale_laptop_online\\controllers\\laptopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|solutionrelative:controllers\\laptopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|d:\\csharp\\asp_mvc\\sale_laptop_online\\wwwroot\\img\\laptop_logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|solutionrelative:wwwroot\\img\\laptop_logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|d:\\csharp\\asp_mvc\\sale_laptop_online\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|solutionrelative:models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|d:\\csharp\\asp_mvc\\sale_laptop_online\\views\\laptops\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|solutionrelative:views\\laptops\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|d:\\csharp\\asp_mvc\\sale_laptop_online\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|d:\\csharp\\asp_mvc\\sale_laptop_online\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|solutionrelative:models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|d:\\csharp\\asp_mvc\\sale_laptop_online\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|d:\\csharp\\asp_mvc\\sale_laptop_online\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|d:\\csharp\\asp_mvc\\sale_laptop_online\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|d:\\csharp\\asp_mvc\\sale_laptop_online\\migrations\\20250213141118_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA8CF59-CEDC-4AC5-A606-835811CEEBE4}|Sale_laptop_online.csproj|solutionrelative:migrations\\20250213141118_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Sale_laptop_onlineContext_c3cc2c78_4e19_4ee2_b3a3_dce2ff030079/True/SqlTable/dbo.Laptop.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,145 +51,41 @@
         },
         {
           "DockedWidth": 874,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T03:26:06.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Laptops\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Laptops\\Details.cshtml",
-              "ToolTip": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Laptops\\Details.cshtml",
-              "RelativeToolTip": "Views\\Laptops\\Details.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T03:23:07.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Laptops\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Laptops\\Edit.cshtml",
-              "ToolTip": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Laptops\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Laptops\\Edit.cshtml",
-              "ViewState": "AgIAACsAAAAAAAAAAAAYwDcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T03:09:47.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "laptop_logo.svg",
-              "DocumentMoniker": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\wwwroot\\img\\laptop_logo.svg",
-              "RelativeDocumentMoniker": "wwwroot\\img\\laptop_logo.svg",
-              "ToolTip": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\wwwroot\\img\\laptop_logo.svg",
-              "RelativeToolTip": "wwwroot\\img\\laptop_logo.svg",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-02-17T02:08:41.46Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Laptops\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Laptops\\Create.cshtml",
-              "ToolTip": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Laptops\\Create.cshtml",
-              "RelativeToolTip": "Views\\Laptops\\Create.cshtml",
-              "ViewState": "AgIAADYAAAAAzczMzMwhwEQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T02:18:04.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T02:13:29.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABEAAAAANzMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T01:59:55.15Z",
+              "WhenOpened": "2025-02-18T01:33:18.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Laptops\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Laptops\\Index.cshtml",
-              "ToolTip": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Laptops\\Index.cshtml",
-              "RelativeToolTip": "Views\\Laptops\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T01:59:42.574Z",
+              "DocumentIndex": 2,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Models\\Laptop.cs",
+              "RelativeDocumentMoniker": "Models\\Laptop.cs",
+              "ToolTip": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Models\\Laptop.cs",
+              "RelativeToolTip": "Models\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T01:27:18.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-17T01:59:21.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAoAAAAAmpmZmRkWwCgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T01:59:04.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -226,54 +93,60 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:15:27.415Z",
+              "WhenOpened": "2025-02-18T01:20:41.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "20250213141118_InitialCreate.cs",
-              "DocumentMoniker": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Migrations\\20250213141118_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250213141118_InitialCreate.cs",
-              "ToolTip": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Migrations\\20250213141118_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20250213141118_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:11:19.342Z"
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Laptops\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Laptops\\Index.cshtml",
+              "ToolTip": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Laptops\\Index.cshtml",
+              "RelativeToolTip": "Views\\Laptops\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T01:18:35.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T01:06:49.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Laptop.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Sale_laptop_onlineContext_c3cc2c78_4e19_4ee2_b3a3_dce2ff030079/True/SqlTable/dbo.Laptop.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Sale_laptop_onlineContext_c3cc2c78_4e19_4ee2_b3a3_dce2ff030079/True/SqlTable/dbo.Laptop.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-17T08:52:11.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LaptopsController.cs",
               "DocumentMoniker": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Controllers\\LaptopsController.cs",
               "RelativeDocumentMoniker": "Controllers\\LaptopsController.cs",
               "ToolTip": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Controllers\\LaptopsController.cs",
               "RelativeToolTip": "Controllers\\LaptopsController.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAkwHQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T14:07:24.394Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Laptop.cs",
-              "DocumentMoniker": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Models\\Laptop.cs",
-              "RelativeDocumentMoniker": "Models\\Laptop.cs",
-              "ToolTip": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\Models\\Laptop.cs",
-              "RelativeToolTip": "Models\\Laptop.cs",
-              "ViewState": "AgIAAAUAAAAAIjMzMzPjvw8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T13:59:13.877Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",

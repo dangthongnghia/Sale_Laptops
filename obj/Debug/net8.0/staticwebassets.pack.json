@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Sale_laptop_online.9296s4voqn.bundle.scp.css"
     },
     {
+      "Id": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
       "Id": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -19,6 +23,14 @@
     {
       "Id": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\wwwroot\\images\\laptops\\n4mut1lx.j0a.jpg",
       "PackagePath": "staticwebassets\\images\\laptops\\n4mut1lx.j0a.jpg"
+    },
+    {
+      "Id": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\wwwroot\\images\\laptops\\nwgx3i0f.dnu.png",
+      "PackagePath": "staticwebassets\\images\\laptops\\nwgx3i0f.dnu.png"
+    },
+    {
+      "Id": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\wwwroot\\images\\laptops\\om1zepdt.113.png",
+      "PackagePath": "staticwebassets\\images\\laptops\\om1zepdt.113.png"
     },
     {
       "Id": "D:\\Csharp\\ASP_MVC\\Sale_laptop_online\\wwwroot\\images\\laptops\\vi3k24gx.x4y.jpg",

@@ -1,5 +1,22 @@
-﻿@{
+﻿@model IEnumerable<Sale_laptop_online.Models.Laptop>
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
-
+<div class="row">
+    @foreach (var laptop in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="@laptop.Image" class="card-img-top" alt="@laptop.Name" onerror="this.src='/images/default-laptop.png'" />
+                <div class="card-body">
+                    <h5 class="card-title">@laptop.Model @laptop.Name</h5>
+                    <p class="card-text text-truncate">@laptop.Description</p>
+                    <p class="card-text"><strong>Giá:</strong> @(laptop.Price?.ToString("C0") ?? "N/A")</p>
+                    <a href="/Laptops/Details/@laptop.Id" class="btn btn-primary">Chi tiết</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

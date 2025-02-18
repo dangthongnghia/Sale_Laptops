@@ -1,9 +1,11 @@
 ﻿@model IEnumerable<Sale_laptop_online.Models.Laptop>
-
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/index.css" />
 <h2 class="mb-4">Danh sách Laptop</h2>
-<p>
-    <a asp-action="Create" class="btn btn-success mb-3">Thêm Laptop Mới</a>
-</p>
+<form asp-controller="Laptops" asp-action="Index" method="get" class="d-flex">
+    <input type="text" name="search" class="form-control me-2" placeholder="Tìm kiếm..." />
+    <button class="btn btn-primary" type="submit">Tìm</button>
+</form>
 <div class="row">
     @foreach (var laptop in Model)
     {
@@ -13,11 +15,10 @@
                 <div class="card-body">
                     <h5 class="card-title">@laptop.Model @laptop.Name</h5>
                     <p class="card-text text-truncate">@laptop.Description</p>
-                    <p class="card-text"><strong>Giá:</strong> @(laptop.Price?.ToString("C0") ?? "N/A")</p>        
+                    <p class="card-text"><strong>Giá:</strong> @(laptop.Price?.ToString("C0") ?? "N/A")</p>
                     <a href="/Laptops/Details/@laptop.Id" class="btn btn-primary">Chi tiết</a>
                 </div>
             </div>
         </div>
-    
     }
 </div>
