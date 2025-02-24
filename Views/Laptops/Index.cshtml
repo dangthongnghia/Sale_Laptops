@@ -2,18 +2,53 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
 <link rel="stylesheet" href="~/css/index.css" />
 <h2 class="mb-4">Danh sách Laptop</h2>
-<form asp-controller="Laptops" asp-action="Index" method="get" class="d-flex">
-    <input type="text" name="search" class="form-control me-2" placeholder="Tìm kiếm..." />
-    <button class="btn btn-primary" type="submit">Tìm</button>
-</form>
+
+
+<h3>ASUS</h3>
 <div class="row">
-    @foreach (var laptop in Model)
+    @foreach (var laptop in Model.Where(l => l.Model == "Asus"))
     {
         <div class="col-md-4 mb-4">
             <div class="card">
                 <img src="@laptop.Image" class="card-img-top" alt="@laptop.Name" onerror="this.src='/images/default-laptop.png'" />
                 <div class="card-body">
-                    <h5 class="card-title">@laptop.Model @laptop.Name</h5>
+                    <h5 class="card-title">@laptop.Title </h5>
+                    <p class="card-text text-truncate">@laptop.Description</p>
+                    <p class="card-text"><strong>Giá:</strong> @(laptop.Price?.ToString("C0") ?? "N/A")</p>
+                    <a href="/Laptops/Details/@laptop.Id" class="btn btn-primary">Chi tiết</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<h3>HP</h3>
+<div class="row">
+    @foreach (var laptop in Model.Where(l => l.Model == "HP"))
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="@laptop.Image" class="card-img-top" alt="@laptop.Name" onerror="this.src='/images/default-laptop.png'" />
+                <div class="card-body">
+                    <h5 class="card-title">@laptop.Title</h5>
+                    <p class="card-text text-truncate">@laptop.Description</p>
+                    <p class="card-text"><strong>Giá:</strong> @(laptop.Price?.ToString("C0") ?? "N/A")</p>
+                    <a href="/Laptops/Details/@laptop.Id" class="btn btn-primary">Chi tiết</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<h3>Dell</h3>
+<div class="row">
+    @foreach (var laptop in Model.Where(l => l.Model == "Dell"))
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="@laptop.Image" class="card-img-top" alt="@laptop.Name" onerror="this.src='/images/default-laptop.png'" />
+                <div class="card-body">
+                    <h5 class="card-title">@laptop.Title</h5>
                     <p class="card-text text-truncate">@laptop.Description</p>
                     <p class="card-text"><strong>Giá:</strong> @(laptop.Price?.ToString("C0") ?? "N/A")</p>
                     <a href="/Laptops/Details/@laptop.Id" class="btn btn-primary">Chi tiết</a>

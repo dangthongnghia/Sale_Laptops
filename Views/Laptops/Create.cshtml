@@ -7,7 +7,11 @@
     <div class="col-md-8">
         <form asp-action="Create" method="post" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-
+            <div class="form-group mb-3">
+                <label asp-for="Title" class="control-label">Title</label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
             <div class="form-group mb-3">
                 <label asp-for="Model" class="control-label">Model</label>
                 <input asp-for="Model" class="form-control" />
@@ -67,6 +71,11 @@
                 <input type="file" name="imageFile" class="form-control" accept="image/*" />
                 <span asp-validation-for="Image" class="text-danger"></span>
                 <small class="form-text text-muted">Chọn file ảnh (JPG, PNG, GIF)</small>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReleaseDate" class="control-label">Ngày bán</label>
+                <input asp-for="ReleaseDate" class="form-control" />
+                <span asp-validation-for="ReleaseDate" class="text-danger"></span>
             </div>
 
             <div class="form-group mb-3">

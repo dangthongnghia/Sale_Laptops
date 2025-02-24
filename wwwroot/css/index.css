@@ -1,5 +1,6 @@
 ﻿body {
     background-color: #f8f9fa;
+
 }
 
 h2 {
@@ -35,6 +36,9 @@ h2 {
     font-weight: bold;
     text-align: center;
 }
+.search_laptop{
+width: 20%;
+}
 
 .btn-primary {
     background-color: #007bff;
@@ -48,4 +52,19 @@ h2 {
 
 .text-center {
     text-align: center;
+}
+
+
+.content {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+}
+.sidebar {
+    width: 250px;
+    height: 50px;
+    position: fixed;
+    z-index: 1;
+    top: 10;
+    background-color: white;
 }

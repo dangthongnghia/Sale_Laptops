@@ -1,11 +1,10 @@
 wwwroot\css\index.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\images\laptops\fpqycokf.sm2.jpg
-wwwroot\images\laptops\n4mut1lx.j0a.jpg
-wwwroot\images\laptops\nwgx3i0f.dnu.png
-wwwroot\images\laptops\om1zepdt.113.png
-wwwroot\images\laptops\vi3k24gx.x4y.jpg
+wwwroot\images\laptops\1tqwj3cu.kh2.jpg
+wwwroot\images\laptops\5gjcewfy.vyt.jpg
+wwwroot\images\laptops\j4ywuvrb.21g.jpg
+wwwroot\images\laptops\wzd2bpj0.0by.jpg
 wwwroot\img\laptop_logo.svg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

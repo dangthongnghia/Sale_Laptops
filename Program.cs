@@ -1,6 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Sale_laptop_online.Data;
+
+
+
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<Sale_laptop_onlineContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("Sale_laptop_onlineContext") ?? throw new InvalidOperationException("Connection string 'Sale_laptop_onlineContext' not found.")));

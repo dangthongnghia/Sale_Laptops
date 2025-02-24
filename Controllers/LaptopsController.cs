@@ -27,13 +27,13 @@ namespace Sale_laptop_online.Controllers
 
             if (!string.IsNullOrEmpty(search))
             {
-                laptops = laptops.Where(s => s.Name!.Contains(search) || s.Model!.Contains(search));
+                laptops = laptops.Where(s => s.Name!.Contains(search) || s.Model!.Contains(search) || s.Title!.Contains(search));
             }
             return View(await laptops.ToListAsync());
         }
      
         
-
+        
         
 
         // GET: Laptops/Details/5
@@ -65,9 +65,9 @@ namespace Sale_laptop_online.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Model,Name,CPU,OS,RAM,Storage,Display,Card,Price,Image,Description")] Laptop laptop, IFormFile imageFile)
+        public async Task<IActionResult> Create([Bind("Id,Model,Name,CPU,OS,RAM,Storage,Display,Card,Price,Image,Description,Title,Battery,ReleaseDate")] Laptop laptop, IFormFile imageFile)
         {
-            if (ModelState.IsValid)
+             if (ModelState.IsValid)
             {
                 if (imageFile != null && imageFile.Length > 0)
                 {
@@ -88,9 +88,17 @@ namespace Sale_laptop_online.Controllers
                     {
                         await imageFile.CopyToAsync(fileStream);
                     }
+                    if (laptop.Model == "Asus")
+                    {
 
+                    laptop.Image = "/images/Asus/laptops/" + fileName;
+                    }
+                    else if (laptop.Model == "HP")
+                    {
+                        laptop.Image = "/images/HP/laptops/" + fileName;
+
+                    }
                     // Save the image path to the database
-                    laptop.Image = "/images/laptops/" + fileName;
                 }
 
                 _context.Add(laptop);
@@ -121,7 +129,7 @@ namespace Sale_laptop_online.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Model,Name,CPU,OS,RAM,Storage,Display,Card,Price,Image,Description")] Laptop laptop, IFormFile imageFile)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Model,Name,CPU,OS,RAM,Storage,Display,Card,Price,Image,Description,,Title,Battery,ReleaseDate")] Laptop laptop, IFormFile imageFile)
         {
             if (id != laptop.Id)
             {
